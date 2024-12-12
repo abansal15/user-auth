@@ -12,3 +12,6 @@ REFRESH_TOKEN_EXPIRY
 ```
 4. Run `npm run dev`
 5. The server will start at `http://localhost:8000`
+
+# Example API requests  
+http://localhost:8000/api/v1/healthcheck/
