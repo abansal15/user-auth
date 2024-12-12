@@ -1,3 +1,5 @@
+Hosted Backend link :
+https://user-auth-ivish-task-backend.onrender.com
 # Steps for setup
 1. Clone the repository
 2. Run `npm install`
